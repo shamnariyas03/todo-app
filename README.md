@@ -53,31 +53,9 @@ All your tasks are automatically saved to your browser's local storage, so your 
 ### Empty State
 When you have no tasks, a friendly illustration appears to encourage you to add new ones.
 
-## Browser Compatibility
 
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
+https://github.com/user-attachments/assets/961e91ce-f624-4432-80ca-a3d46551d355
 
-## Getting Started
-
-Simply clone or download this project and open `index.html` in your browser. No installation or dependencies required!
-
-## Future Enhancements
-
-Potential features for future versions:
-- Task categories/tags
-- Due dates
-- Task priorities
-- Dark mode toggle
-- Export tasks to PDF
-- Cloud synchronization
-
-## License
-
-This project is open source and available for personal and educational use.
-
----
 
 **Happy Task Management! 🎯**
+
